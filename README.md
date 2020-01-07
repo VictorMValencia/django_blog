@@ -1,5 +1,4 @@
 # Django Blog App
-Blog Application
 
 https://djangoblogapp17.herokuapp.com/
 
